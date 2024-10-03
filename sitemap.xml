@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://someonecommon.eu.org/2024/09/28/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</loc>
+    <loc>http://www.someonecommon.eu.org/2024/09/28/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</loc>
     
     <lastmod>2024-09-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://someonecommon.eu.org/about/</loc>
+    <loc>http://www.someonecommon.eu.org/about/</loc>
     
     <lastmod>2024-09-28</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>http://someonecommon.eu.org/</loc>
+    <loc>http://www.someonecommon.eu.org/</loc>
     <lastmod>2024-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
